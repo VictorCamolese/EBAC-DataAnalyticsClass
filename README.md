@@ -1,5 +1,5 @@
 # EBAC-DataAnalytics
-EBAC's Data Analytics class activities and personal Data projects
+EBAC's Data Analytics class activities
 
 
 ENG-USA:
